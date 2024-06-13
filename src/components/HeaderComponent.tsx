@@ -5,11 +5,11 @@ import CabinetComponent from './CabinetComponent.tsx'
 function HeaderComponent() {
 
     return (
-        <>
+        <div className='header'>
             <SidebarMenuComponent />
-            <CabinetComponent />
             <SearchComponent />
-        </>
+            <CabinetComponent />
+        </div>
     )
 }
 
