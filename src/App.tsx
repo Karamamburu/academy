@@ -1,11 +1,11 @@
 import './App.css'
-import SearchComponent from './components/SearchComponent.tsx'
+import HeaderComponent from './components/HeaderComponent'
 
 function App() {
 
   return (
     <>
-      <SearchComponent />
+      <HeaderComponent />
     </>
   )
 }
