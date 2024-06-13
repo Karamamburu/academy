@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Verdana';
+    src:
+      url(./Verdana-Bold.ttf) format('truetype'),
+      url(./Verdana-BoldItalic.ttf) format('truetype'),
+      url(./Verdana-Italic.ttf) format('truetype'),
+      url(./Verdana.ttf) format ('truetype');
+    font-weight: 500;
+    font-display: swap;
+  }
+  
